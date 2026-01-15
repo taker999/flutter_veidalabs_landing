@@ -14,7 +14,7 @@ A responsive Flutter landing screen for an AI assistant with modern UI component
 
 ```yaml
 dependencies:
-  flutter_screenutil: ^5.9.0
+  flutter_screenutil: ^5.9.3
 ```
 
 ```bash
